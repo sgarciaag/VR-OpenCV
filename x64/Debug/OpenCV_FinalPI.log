@@ -1,0 +1,55 @@
+﻿  pattern.cpp
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(12,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(61,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(64,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(65,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(68,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(201,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(201,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(202,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(202,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(203,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(203,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(233,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(257,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(268,18): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(294,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(295,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\OpenCV_FinalPI\pattern.cpp(296,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  OpenCV_FinalPI.vcxproj -> D:\Clases\Procesamiento de Imagenes\repositorio_Visual\OpenCV_FinalPI\x64\Debug\OpenCV_FinalPI.exe
